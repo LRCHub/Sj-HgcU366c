@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "キミガタメ 2016",
+  "base_artist": "Suara",
+  "createdAt": "2026-03-18T13:41:09.573629Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "キミガタメ",
+      "artist": "Suara",
+      "has_synced": true,
+      "path": "select/01_キミガタメ_Suara.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "キミガタメ 2016",
+      "artist": "Suara",
+      "has_synced": false,
+      "path": "select/02_キミガタメ_2016_Suara.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "キミガタメ Re:boot",
+      "artist": "Suara",
+      "has_synced": false,
+      "path": "select/03_キミガタメ_Re_boot_Suara.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "キミガタメ Re:boot (2024 リマスターバージョン)",
+      "artist": "Suara",
+      "has_synced": true,
+      "path": "select/04_キミガタメ_Re_boot_(2024_リマスターバージョン)_Suara.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "キミガタメ Re:boot",
+      "artist": "Suara",
+      "has_synced": true,
+      "path": "select/05_キミガタメ_Re_boot_Suara.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "キミガタメ",
+      "artist": "Suara",
+      "has_synced": true,
+      "path": "select/06_キミガタメ_Suara.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "キミガタメ",
+      "artist": "Suara",
+      "has_synced": false,
+      "path": "select/07_キミガタメ_Suara.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "キミガタメ(from「Pure2 -Ultimate Cool Japan Jazz-」)",
+      "artist": "Suara",
+      "has_synced": true,
+      "path": "select/08_キミガタメ(from「Pure2_-Ultimate_Cool_Japan_Jazz-」)_Suara.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "キミガタメ",
+      "artist": "Suara",
+      "has_synced": false,
+      "path": "select/pl_01_キミガタメ_Suara.txt"
+    }
+  ]
+}
